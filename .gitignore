@@ -1,0 +1,4 @@
+*.log.*
+
+# Node modules
+node_modules
